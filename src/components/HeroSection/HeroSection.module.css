@@ -1,0 +1,13 @@
+.cardSection {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 69px;
+  justify-content: space-around;
+  
+}
+/* @media (min-width: 786px) {
+  .cardSection {
+    display: flex;
+    flex-wrap: wrap;
+  }
+} */
